@@ -12,4 +12,4 @@
 - Calcular una serie de tiempo de los indicadores biogeográficos por loma o sector evaluada.
 - Analizar y generar gráficos estadísticos de los porcentajes de verdor obtenidos y su correlación con los factores físicos geográficos.
 
-<img src="man/lomas.png">
+<img src="main/lomas.png">
