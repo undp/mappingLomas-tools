@@ -11,3 +11,5 @@
 - Generar un mapa de porcentaje y/o frecuencia de verdor de las lomas costeras de un período no menor a 20 años. Se generará dos mapas, uno correspondiente a la cobertura vegetal generada por las nieblas de invierno y precipitaciones anómalas de verano.
 - Calcular una serie de tiempo de los indicadores biogeográficos por loma o sector evaluada.
 - Analizar y generar gráficos estadísticos de los porcentajes de verdor obtenidos y su correlación con los factores físicos geográficos.
+
+<img src="man/lomas.png">
