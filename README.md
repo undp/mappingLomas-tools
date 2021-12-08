@@ -1,6 +1,6 @@
 <img src="https://www1.undp.org/etc/designs/projectrey/img/pnud-logo-30.svg" align="right" width = 10%/>
 
-# Mapa de frecuencias del verdor de de las lomas de la provincia de Lima y análisis de la influencia de los factores físico-geográficos usando Google Earth Engine - Python 
+# Mapa de frecuencias del verdor de las lomas de la provincia de Lima y análisis de la influencia de los factores físico-geográficos usando Google Earth Engine - Python 
 
 :ballot_box_with_check: **Objetivo general**: 
 
